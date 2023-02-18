@@ -1,0 +1,18 @@
+ $(function(){
+      $("#includedContent0").load("code0.html"); 
+    });
+$(function(){
+      $("#includedContent1").load("code1.html"); 
+    });
+$(function(){
+      $("#includedContent2").load("code2.html"); 
+    });
+$(function(){
+      $("#includedContent3").load("code3.html"); 
+    });
+$(function(){
+      $("#includedContent4").load("code4.html"); 
+    });
+  $(function(){
+      $("#includedContent5").load("code5.html"); 
+    });
